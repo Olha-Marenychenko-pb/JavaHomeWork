@@ -1,7 +1,5 @@
 package com.pb.marenychenko.hw6;
 
-import com.Testirovka.Computer;
-
 public class Veterinarian {
     private String doctorFIO;
     private String professionalSkills;

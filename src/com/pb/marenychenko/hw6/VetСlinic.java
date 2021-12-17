@@ -1,5 +1,4 @@
 package com.pb.marenychenko.hw6;
-import com.Testirovka.Computer;
 
 import java.lang.reflect.Constructor;
 
