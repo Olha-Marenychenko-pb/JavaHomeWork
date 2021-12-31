@@ -54,9 +54,6 @@ public class Client {
                 break;
             }
             messageCounter++;
-            synchronized (Client.ClientReader.class){
-                Client.ClientReader.class.notifyAll();
-            }
         }
         outServer.close();
         inServer.close();
